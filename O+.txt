@@ -1,0 +1,39 @@
+Blood group   : O+
+Name          : Mahmudul Chowdhury
+Address       : Mirpur-10
+Gender        : Male
+Age           : 29
+Contact No.   : 01982647390
+Validation    : 18.04.2025
+
+Blood group   : O+
+Name          : Sadia Afrin
+Address       : Mirpur-11
+Gender        : Female
+Age           : 21
+Contact No.   : 01793647281
+Validation    : 28.06.2025
+
+Blood group   : O+
+Name          : Arifin Chowdhury
+Address       : Mirpur-1
+Gender        : Male
+Age           : 25
+Contact No.   : 01864739201
+Validation    : 08.05.2025
+
+Blood group   : O+
+Name          : Nusrat Jahan
+Address       : Mirpur-6
+Gender        : Female
+Age           : 27
+Contact No.   : 01598347265
+Validation    : 04.03.2025
+
+Blood group   : O+
+Name          : Khaled Mahmud
+Address       : Mirpur-13
+Gender        : Male
+Age           : 31
+Contact No.   : 01683475920
+Validation    : 18.02.2025
